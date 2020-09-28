@@ -29,5 +29,7 @@ Go to ``/discordGuildGreeter/src/main/java/configuration.java`` and set the give
 
 ``Color`` ``channelMessageColor`` is the colour of that ``Embed``.
 
+Run ``/discordGuildGreeter/src/main/java/runMe.java`` to start the bot.
+
 # Additional Notes
 Skidding, the act of copying one's work without giving due credit, is highly advised against. I ask that you provide me credit wherever this is used. You can mention either @asciitac or @gigitac.
