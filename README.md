@@ -3,7 +3,7 @@
 
 [![Discord Server Badge](https://img.shields.io/discord/745447009242316860?color=7289DA&label=Discord%20Server&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/GuBufUE)![Programming Language](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 
-Discord Guild Greeter is a Discord Bot Module written in Java using the Javacord API. It takes in up to 9 variables, some of which can be left blank.
+Discord Guild Greeter is a Discord Bot Module written in Java using the Javacord API which allows inexperienced developers to create a good quality greeting bot. It takes in up to 9 variables, some of which can be left blank.
 For other projects, see [here](https://github.com/asciitac)
 
 # Setup
