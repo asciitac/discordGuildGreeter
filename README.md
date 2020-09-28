@@ -1,6 +1,5 @@
 <a href="https://fontmeme.com/discord-logo-font/"><img src="https://fontmeme.com/permalink/200928/23f4ca32638ebf256b80162c1bc727ad.png" alt="discord-logo-font" border="0"></a>
 <a href="https://fontmeme.com/discord-logo-font/"><img src="https://fontmeme.com/permalink/200928/48d6f42dbe9624198e085a6b8876b534.png" alt="discord-logo-font" border="0"></a>
-<a href="https://img.shields.io/discord/745447009242316860?color=7289DA&label=Discord%20Server&logo=discord&logoColor=white&style=flat-square" alt="discord-logo-font" border="0"></a>
 
 [![Discord Server Badge](https://img.shields.io/discord/745447009242316860?color=7289DA&label=Discord%20Server&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/GuBufUE)![Programming Language](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 
